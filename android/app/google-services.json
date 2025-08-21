@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175864618955",
+    "project_id": "vuna-eats",
+    "storage_bucket": "vuna-eats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175864618955:android:1c2f9a78009f8e79bb204e",
+        "android_client_info": {
+          "package_name": "com.vuna.eats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOSsNZgn9EXbODOKnZZDdwAWRUmPj3HZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
